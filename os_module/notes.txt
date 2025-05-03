@@ -1,0 +1,41 @@
+
+Library: 1
+os module in python
+
+
+## What You Can Do with os:
+1. Interact with the operating system.
+2. Navigate and manipulate file system paths.
+3. Create, delete, and rename files/directories.
+4. Get environment variables.
+5. Run shell commands using `os.system()` or `os.popen()`.
+6. Check file existence and permissions.
+7. Handle process-level tasks (like PID, current process info).
+
+
+🔗 Power Combos with Other Libraries:
+1. `os + shutil` → Automate file backups and cleanups.
+2. `os + schedule` → Run tasks on a schedule.
+3. `os + logging` → Maintain logs for file operations.
+4. `os + subprocess` → Handle advanced shell commands.
+5. `os + pandas` → Batch-process CSVs in directories.
+
+---
+
+✅ Pros:
+1. Part of Python’s standard library — no installation needed.
+2. Lightweight and fast.
+3. Cross-platform (mostly).
+4. Great for scripting and automation.
+
+
+
+⚠️ Cons:
+1. Limited error handling (✅ use `pathlib` for modern path handling).
+2. Not always platform-independent (commands vary across OS).
+3. No direct support for high-level file operations (✅ use `shutil`).
+
+
+
+Let the automation journey begin! 🚀
+#Python #PythonLibraries #osmodule #PythonForDevelopers #AutomationWithPython #PythonTips #Day1
