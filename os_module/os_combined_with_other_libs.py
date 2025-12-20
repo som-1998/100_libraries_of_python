@@ -11,7 +11,6 @@ import pandas as pd
 
 ## 1. os + shutil: Automate file backups and cleanup
 # Create dummy file and backup directory
-## file name
 file_to_backup = "data.txt"
 backup_dir = "backup"
 
